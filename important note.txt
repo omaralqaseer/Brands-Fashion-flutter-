@@ -1,0 +1,6 @@
+
+    Email And Password to try Admin side in application 
+
+    E: test@email.com
+
+    P: test1234
